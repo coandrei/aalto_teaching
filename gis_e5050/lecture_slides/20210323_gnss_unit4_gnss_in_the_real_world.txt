@@ -1,0 +1,53 @@
+# EGNOS and Galileo for Mapping
+https://www.youtube.com/watch?v=_2zVSpfenTI
+
+# Autonomous vehicles: Driving with Galileo
+https://www.youtube.com/watch?v=OGnA-oiStJM 
+
+
+# Environmental monitoring (compilation of videos & animation from UNAVCO)
+https://www.youtube.com/playlist?list=PLzmugeDoplFM5pPI80wwi3qmtZH99Ism2 
+
+# Precipitable Water Vapor monitoring
+https://www.youtube.com/watch?v=f4Z9v7ujnIE 
+
+# Drought monitoring
+https://www.youtube.com/watch?v=Z4cbSOakviI 
+
+# Volcanos
+https://spotlight.unavco.org/how-gps-works/gps-and-tectonics/gps-and-volcanoes.html 
+
+# Volcanos (GNSS + LiDAR, Reykjanes erruption, Iceland, March 19, 2021)
+https://twitter.com/i/status/1373340849036259338 
+
+# Natural hazards (Sendai, Japan 2011: earthquake + tsunami + nuclear disaster)
+https://blogs.agu.org/mountainbeltway/2011/03/15/new-gps-vectors
+http://www.gps.alaska.edu/ronni/sendai2011.html
+
+# Earthquake waves travelling accross the North America after the Miyagi earthquake, Japan, March 20, 2021
+https://twitter.com/i/status/1373245417165631491 
+
+# Physical applications of GPS geodesy: a review
+https://iopscience.iop.org/article/10.1088/0034-4885/79/10/106801 
+
+
+
+
+
+# Octavian's research sample: Lane level positioning with GNSS & PPP
+https://www.researchgate.net/publication/295667458_Multi-GNSS_Real-Time_Precise_Positioning_for_Pedestrian_Lane_Detection
+
+# Octavian's research sample: Sensing Monsoon season with GNSS & PPP
+https://doi.org/10.4186/ej.2018.22.6.37
+
+# Octavian's research sample: Impact of dynamic Earth on a GNSS CORS station in Bangkok
+https://github.com/coandrei/jupyter_notebooks/tree/master/cuut
+
+# Octavian's research sample: Sagaing Fault slip and deformation in Myanmar
+https://doi.org/10.1016/j.geog.2016.03.007 
+
+# Octavian's research sample: Aboa time series, signal decomposition
+https://doi.org/10.3390/rs10121937 
+
+
+
